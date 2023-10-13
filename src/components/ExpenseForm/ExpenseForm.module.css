@@ -1,0 +1,14 @@
+
+.button {
+    margin-top: 30px;
+}
+
+.addExpense {
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+.label {
+    color: white;
+    font-weight: bold ;
+}
